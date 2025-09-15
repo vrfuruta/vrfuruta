@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, my name is Vitor
 
-<!--
-**vrfuruta/vrfuruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
+- 🌍 I am currently studying Data Science.
+- 🔬 Searching for oportunities to improve my coding skills.
+- 🎯 My main goal is to master lots of skills and get a nice job!
 
-Here are some ideas to get you started:
+## 🛠️ Tools and techs
+- Languages: `C`, `Python`, `SQL`, `NoSQL`, `HTML`, `CSS`, `Java-Script`
+- Tools: Git, VS-Code, MySQL, Mongo
+- Interests: Data Structures, AI, Cloud, LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrfuruta&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrfuruta&layout=compact&theme=dracula)
+
+## 🌐 Where to find me
+- [LinkedIn] https://www.linkedin.com/in/vitor-furuta-2ba052262/
+- Still working on my portfolio
+- ✉️ Email: **vitorfurut4@gmail.com**
+
